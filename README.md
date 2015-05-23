@@ -1,16 +1,16 @@
-#string-combinations
+# string-combinations
 
 This module is used to generate all possible combinations of a given input String.
 
 Input : Any valid String  
 Output : An array of all possible combinations  
 
-##Example Usage
+## Example Usage
 ```javascript
-var combinations = require('combinations-generator');
+var combinations = require('string-combinations');
 var result = combinations.generate("abcde");
 ```
-##Sample Output
+## Sample Output
 [ 'a',
   'b',
   'ab',
@@ -43,6 +43,5 @@ var result = combinations.generate("abcde");
   'bcde',
   'abcde' ]
 
-  ##Contact Info  
-  Please raise any issues at
-  [this page](https://github.com/lalith26/combinations-generator/issues)
+## Contact Info  
+Please raise any issues at[this page](https://github.com/lalith26/combinations-generator/issues)
