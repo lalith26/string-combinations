@@ -1,4 +1,4 @@
-#combinations-generator
+#string-combinations
 
 This module is used to generate all possible combinations of a given input String.
 
@@ -45,4 +45,4 @@ var result = combinations.generate("abcde");
 
   ##Contact Info
   Please raise any issues at
-  https://github.com/lalith26/combinations-generator/issues
+  [this page](https://github.com/lalith26/combinations-generator/issues)
