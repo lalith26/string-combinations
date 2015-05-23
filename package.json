@@ -1,0 +1,25 @@
+{
+  "name": "combinations-generator",
+  "version": "1.0.0",
+  "description": "Generate all possible combinations of a given input String",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lalith26/combinations-generator.git"
+  },
+  "keywords": [
+    "combinations",
+    "subset",
+    "set",
+    "generator"
+  ],
+  "author": "Lalith Kumar B R <brlalithkumar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lalith26/combinations-generator/issues"
+  },
+  "homepage": "https://github.com/lalith26/combinations-generator"
+}
