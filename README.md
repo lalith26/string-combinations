@@ -10,7 +10,7 @@ Output : An array of all possible combinations
 var combinations = require('string-combinations');
 var result = combinations.generate("abcde");
 ```
-## Sample Output
+## Sample Output  
 [ 'a',
   'b',
   'ab',
@@ -44,4 +44,4 @@ var result = combinations.generate("abcde");
   'abcde' ]
 
 ## Contact Info  
-Please raise any issues at[this page](https://github.com/lalith26/combinations-generator/issues)
+Please raise any issues at [this page](https://github.com/lalith26/combinations-generator/issues)

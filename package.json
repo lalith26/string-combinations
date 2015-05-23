@@ -1,6 +1,6 @@
 {
   "name": "string-combinations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate all possible combinations of a given input String",
   "main": "index.js",
   "scripts": {
