@@ -23,6 +23,5 @@ function generate(input){
     if(tempString != "")
       combinations.push(tempString);
   }
-  console.log(combinations);
   return combinations;
 }
