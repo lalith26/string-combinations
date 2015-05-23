@@ -46,4 +46,3 @@ var result = combinations.generate("abcde");
   ##Contact Info
   Please raise any issues at
   https://github.com/lalith26/combinations-generator/issues
-  
