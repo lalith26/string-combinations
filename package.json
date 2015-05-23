@@ -1,5 +1,5 @@
 {
-  "name": "combinations-generator",
+  "name": "string-combinations",
   "version": "1.0.0",
   "description": "Generate all possible combinations of a given input String",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lalith26/combinations-generator.git"
+    "url": "https://github.com/lalith26/string-combinations.git"
   },
   "keywords": [
     "combinations",

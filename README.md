@@ -43,6 +43,6 @@ var result = combinations.generate("abcde");
   'bcde',
   'abcde' ]
 
-  ##Contact Info
+  ##Contact Info  
   Please raise any issues at
   [this page](https://github.com/lalith26/combinations-generator/issues)
